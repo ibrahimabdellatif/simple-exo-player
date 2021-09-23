@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">exoPlayerWithNotifications</string>
+    <string name="PLAYBACK_NOTIFICATION_ID">notification id</string>
+    <string name="PLAYBACK_NOTIFICATION_NAME">play back channel name</string>
+</resources>

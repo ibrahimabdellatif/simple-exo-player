@@ -1,0 +1,2 @@
+rootProject.name = "exoPlayerWithNotifications"
+include ':app'
